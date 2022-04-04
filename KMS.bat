@@ -1,5 +1,5 @@
 @echo off
-title KMS Activation - Version 2022.2.16
+title KMS Activation - Version 2022.04.04
 
 set kms_server=kms.example.com
 
@@ -11,6 +11,7 @@ cls
 echo ---------------------------------------------------------
 echo KMS Activation
 echo KMS 激活脚本
+echo https://github.com/LucienShui/kms
 echo.
 echo Input 1 to Activate Windows Opreating System
 echo 键入 1 以激活 Windows 操作系统
